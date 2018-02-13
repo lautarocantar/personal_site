@@ -1,0 +1,10 @@
+
+name: "lauti-website"
+output_dir: "."
+navbar:
+  title: "Lautaro Cantar"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: about.html
