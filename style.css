@@ -1,0 +1,47 @@
+img{
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+div.scroll {
+  background-color: #FFFFFF;
+    height:225px;
+  width: 100%;
+  overflow-x: scroll;
+}
+
+blockquote {
+  border-left:none;
+  font-size: 1em;
+  display: block;
+  margin-top: .25em;
+  margin-left: 20px;
+}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: left;
+  text-align: left;
+  z-index:-10;
+  width:50%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 20px 0;
+  background: #ccc; /* Remove this line to disable grey background color */
+}

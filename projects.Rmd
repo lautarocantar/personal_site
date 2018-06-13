@@ -1,0 +1,11 @@
+---
+  title: "Projects"
+---
+
+Current Projects:
+
+__* Craigslist: __
+Along with a colleague at BARI, we are building a new infrastructure to collect and store data from Craigslist.com rental housing listings for the state of Massachusetts. We are building this infrastructure with an R web scraper. Down the road, the project includes working with text analysis and image recognition for research related to the rental housing market.
+
+__* Mass Housing Locator Platform:__
+At TACC we are working on an online platform to facilitate low-income access to better units in better neighborhoods. The platform has three components: a housing locator tool, a personalized newsletter for each subscriber and an address locator tool. The platform collects data from Craigslist and is developed in R and Shiny apps.

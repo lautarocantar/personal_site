@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+* __Name:__ Lauti Cantar
+* __Ocupation:__ Grad Student at NEU
+* __Hobbies:__ Soccer
+
+Here's a picture of me! Don't fall in love, I'm already taken!
+
+
+

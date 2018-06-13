@@ -1,0 +1,25 @@
+
+name: "lauti-website"
+output_dir: "."
+navbar:
+  title: "Lautaro Cantar"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: https://drive.google.com/file/d/1q7BCnG7FftjBPMFsEPQn1NhHcnq2xwTn/view
+    - text: "Projects & Portfolio"
+      href: portfolio.html
+  right:
+  - icon: fa-envelope-o     # Email
+    href: mailto:lautaro.cantar@gmail.com?Subject=Hello%20again
+  - icon: fa-linkedin       # LinkedIn
+    href: https://www.linkedin.com/in/lautarocantar/
+  - icon: fa-github         # Github account
+    href: https://github.com/lautarocantar
+
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: style.css
