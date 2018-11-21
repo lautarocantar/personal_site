@@ -3,13 +3,11 @@ title: "Welcome!"
 ---
 
 <div id="left">
-![](pics/Cantar-MSUI.jpg)
+![](pics/equipo-lautaro.png)
 </div>
 
 <div id="right">
-Hi, I'm Lauti! I received my MS in Urban Informatics Candidate from Northeastern University (Boston, MA) and my BA in Economics from Universidad Nacional de La Plata. I'm currently working as an Urban Data Science Fellow at The American City Coalition (TACC), and as a Research Assistant at the Boston Area Research Initiative.
-
-My current work and research topic focuses on applying data science tools to the rental housing market. I'm using Craigslist.com data to analyze the rental housing market in Massachusetts and designing and deploying online tools to help low-income tenants to access to better units in better neighborhoods. 
+Hi, I’m Lauti! I received my MS in Urban Informatics from Northeastern University (Boston, MA) and my BA in Economics from Universidad Nacional de La Plata. I’m currently working as a Data Analyst at the Modernization Secretary at the Chief of Cabinet of Ministers of the Argentine Nation.
 
 I love to talk to people and I'm interested in new technologies and applications. Feel free to shot me a message and we can arrange a time to chat!
 </div>
