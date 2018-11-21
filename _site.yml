@@ -12,6 +12,7 @@ navbar:
       href: portfolio.html
     - text: "Big Data para mapas"
       href: BigData_con_mapas_v0.html
+      
   right:
   - icon: fa-envelope-o     # Email
     href: mailto:lautaro.cantar@gmail.com?Subject=Hello%20again
